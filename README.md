@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KishanthanKingston
-- 👀 I’m interested in Robotics and Artificail Intelligence.
+- 👀 I’m interested in Robotics and Artificial Intelligence.
 - 🌱 I’m currently doing my master’s degree in Automatic, Robotic specialized in intelligent systems at Sorbonne University.
 
 <!---
