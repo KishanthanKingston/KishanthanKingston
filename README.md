@@ -23,8 +23,7 @@ I seek to leverage my passion for **AI research, deep learning, and computer vis
 
 ---
 
-📫 **Connect with me on LinkedIn:** [Your LinkedIn URL]  
-📂 **Check out my projects on GitHub:** [Your GitHub URL]  
+📫 **Connect with me on LinkedIn:** https://www.linkedin.com/in/kishanthankingston/  
 💬 **Let’s talk AI!**  
 
 
