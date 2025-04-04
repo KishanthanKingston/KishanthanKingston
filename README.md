@@ -2,6 +2,8 @@
 
 💡 **Passionate about AI and Technological Innovation, I explore how Artificial Intelligence can transform our world.**
 
+🎯 **Currently working as a Research Engineer in Artificial Intelligence and Machine Learning at IPSL – Institut Pierre-Simon Laplace, I focus on climate downscaling to improve the resolution of global climate models using deep learning techniques.**
+
 Graduated with a **Master’s degree in Automation and Robotics** from **Sorbonne University**, specializing in **Intelligent Systems**, I have developed in-depth expertise in **Deep Learning and Computer Vision** through hands-on projects and applied research.
 
 ## 📌 Academic Background:
