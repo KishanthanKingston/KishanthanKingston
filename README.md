@@ -5,7 +5,7 @@ AI Research Engineer focused on **Deep Learning**, **Computer Vision**, and **Cl
 Currently working at **IPSL – Institut Pierre-Simon Laplace**, where I develop deep learning approaches for **climate downscaling** and high-resolution climate modeling.
 
 ## Academic Background:
-- **Master’s in Automation and Robotics**, specialization in Intelligent Systems – Sorbonne University.  
+- **Master’s in Automation and Robotics**, specialization in Intelligent Systems – Sorbonne Université.  
 - **Bachelor’s in Physics** – Université Paris Cité.  
 
 ## Skills & Expertise:
