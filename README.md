@@ -13,7 +13,7 @@ Currently working at **IPSL – Institut Pierre-Simon Laplace**, where I develop
 - **Deep Learning & Computer Vision** – Development of projects in computer vision and artificial intelligence.  
 - **Image Segmentation** – Applied research experience at Dassault Systèmes.  
 - **Speech Signal Processing & Machine Learning** – Applied research experience at the **Institut des Systèmes Intelligents et de Robotiques (ISIR)**.  
-- **Teamwork & Collaboration** – Experience working in multidisciplinary environments.  
+- **Interdisciplinary Collaboration** – Experience collaborating with physicians, climatologists, physicists, AI scientists, and researchers on multidisciplinary AI and scientific projects.
 
 ## Professional Objective:
 I seek to leverage my passion for **AI research, deep learning, and computer vision** in projects that have a **real impact on people's well-being**. I am particularly interested in opportunities that combine:  
